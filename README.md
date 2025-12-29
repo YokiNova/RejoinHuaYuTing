@@ -6,4 +6,4 @@
 # 使用方法
 [前往 补丁更新界面](https://github.com/YokiNova/Mcl.Core.Revenge) 
 
-右侧选择 Releases 下载最新版本 Mcl.Core.dll 粘贴到盒子启动路径（如C:\Program Files (x86)\MCLauncher）替换原有的 Mcl.Core.dll 之后即刻生效。
+右侧选择 Releases 下载最新版本 Mcl.Core.dll 粘贴到盒子启动路径（如C:\Program Files (x86)\Netease\MCLauncher）替换原有的 Mcl.Core.dll 之后即刻生效。
